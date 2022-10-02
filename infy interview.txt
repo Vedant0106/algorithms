@@ -1,0 +1,71 @@
+Classes and Objects
+
+A class is a user-defined type that describes what a certain type of object will look like. A class description consists of a declaration and a definition. Usually these pieces are split into separate files.
+An object is a single instance of a class. You can create many objects from the same class type.
+
+
+
+
+SDLC
+Software Development Life Cycle (SDLC) is a process used by the software industry to design, develop and test high quality softwares. 
+The SDLC aims to produce a high-quality software that meets or exceeds customer expectations, reaches completion within times and cost estimates
+
+
+
+
+Planning. 
+Define Requirements. 
+Design and Prototyping. 
+Software Development. 
+Testing. 
+Deployment. 
+Operations and Maintenance.        
+
+
+
+
+DELETE AND TRUNCATE
+DELETE is a DML(Data Manipulation Language) command and is used when we specify the row(tuple) that we want to remove or delete from the table or relation.
+TRUNCATE is a DDL(Data Definition Language) command and is used to delete all the rows or tuples from a table.
+
+
+
+
+Super Key – A super key is a group of single or multiple keys which identifies rows in a table.
+Primary Key – is a column or group of columns in a table that uniquely identify every row in that table.
+Candidate Key – is a set of attributes that uniquely identify tuples in a table. Candidate Key is a super key with no repeated attributes.
+
+
+
+
+The time complexity of MergeSort is O(n*Log n) in all the 3 cases (worst, average and best)
+
+
+
+DDL:
+DDL is Data Definition Language which is used to define data structures. For example: create table, alter table are instructions in SQL.
+DML:
+DML is Data Manipulation Language which is used to manipulate data itself. For example: insert, update, delete are instructions in SQL.
+
+
+
+ACID Properties in DBMS
+A – Atomicity.
+C – Consistency.
+I – Isolation.
+D – Durability.
+
+
+
+JVM (Java Virtual Machine) is an abstract machine. It is a specification that provides runtime environment in which java bytecode can be executed.
+
+
+
+
+Hashing is a technique or process of mapping keys, and values into the hash table by using a hash function. It is done for faster access to elements
+
+
+
+
+
+
